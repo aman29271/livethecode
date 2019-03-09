@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://livethecode.ml"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
